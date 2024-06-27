@@ -1,0 +1,14 @@
+C:\Users\Arenwey\source\repos\GestionCours\bin\Debug\net8.0\GestionCours.exe
+C:\Users\Arenwey\source\repos\GestionCours\bin\Debug\net8.0\GestionCours.deps.json
+C:\Users\Arenwey\source\repos\GestionCours\bin\Debug\net8.0\GestionCours.runtimeconfig.json
+C:\Users\Arenwey\source\repos\GestionCours\bin\Debug\net8.0\GestionCours.dll
+C:\Users\Arenwey\source\repos\GestionCours\bin\Debug\net8.0\GestionCours.pdb
+C:\Users\Arenwey\source\repos\GestionCours\obj\Debug\net8.0\GestionCours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arenwey\source\repos\GestionCours\obj\Debug\net8.0\GestionCours.AssemblyInfoInputs.cache
+C:\Users\Arenwey\source\repos\GestionCours\obj\Debug\net8.0\GestionCours.AssemblyInfo.cs
+C:\Users\Arenwey\source\repos\GestionCours\obj\Debug\net8.0\GestionCours.csproj.CoreCompileInputs.cache
+C:\Users\Arenwey\source\repos\GestionCours\obj\Debug\net8.0\GestionCours.dll
+C:\Users\Arenwey\source\repos\GestionCours\obj\Debug\net8.0\refint\GestionCours.dll
+C:\Users\Arenwey\source\repos\GestionCours\obj\Debug\net8.0\GestionCours.pdb
+C:\Users\Arenwey\source\repos\GestionCours\obj\Debug\net8.0\GestionCours.genruntimeconfig.cache
+C:\Users\Arenwey\source\repos\GestionCours\obj\Debug\net8.0\ref\GestionCours.dll
